@@ -13,7 +13,7 @@
 }
 
 .circle:hover {
-    animation: 0;
+    animation: none;
 }
 
 .circle1 {
